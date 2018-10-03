@@ -9,7 +9,7 @@ table
     {
       font-family: arial, sans-serif;
       border-collapse: collapse;
-      width: 25%;
+      width: 50%;
     }
 td, th
     {
@@ -31,3 +31,14 @@ tr:nth-child(even)
       width:600px;
       height:auto;
     }
+#serving
+    {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 30%;
+    }
+img:hover
+  {
+    width:350px;
+    height:auto;
+  }
