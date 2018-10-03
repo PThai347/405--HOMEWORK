@@ -42,3 +42,8 @@ img:hover
     width:350px;
     height:auto;
   }
+  span
+  {
+    font-size: 75px;
+    color:red;
+  }
