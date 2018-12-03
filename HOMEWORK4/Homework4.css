@@ -59,7 +59,6 @@ main
   {
     flex-grow: 1;
     background-color: tomato;
-    order: 1px solid black;
     padding: 5px;
     text-align: center;
     line-height: 35px;
