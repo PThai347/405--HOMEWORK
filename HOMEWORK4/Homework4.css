@@ -34,10 +34,9 @@
   background-color: orange;
   vertical-align: middle;
   margin: 0 auto;
-  padding: 5px;
-  height: 105px;
-  flex-direction: column;
-  justify-content: space-between;
+  padding: 1px;
+  height: 120px;
+  flex-direction: row;
 }
 article
 {
